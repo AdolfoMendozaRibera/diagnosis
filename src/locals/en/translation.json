@@ -1,0 +1,40 @@
+{
+  "general": {
+    "titulo_app": "Medical Advisor",
+    "selecciona_sintomas": "Choose your symptoms",
+    "selecciona_un_sintoma": "Select a symptom",
+    "verificar": "Check",
+    "resultados": "Results"
+  },
+  "mensajes": {
+    "alerta_sintoma": "Please select at least one symptom",
+    "sin_sintomas_seleccionados": "You haven't selected any symptoms",
+    "resultados_vacio": "Your results will appear here",
+    "no_coincidencias": "No matches were found for the selected symptoms"
+  },
+  "acciones": {
+    "eliminar": "Remove"
+  },
+
+  "sintomas": {
+    "dolor-cabeza": "Headache",
+    "fiebre": "Fever",
+    "tos": "Cough",
+    "dolor-garganta": "Sore throat",
+    "congestion": "Nasal congestion",
+    "fatiga": "Fatigue",
+    "dolor-muscular": "Muscle pain",
+    "dificultad-respirar": "Shortness of breath",
+    "nauseas": "Nausea",
+    "escalofrios": "Chills"
+  },
+
+  "enfermedades": {
+    "gripe": "Flu",
+    "influenza": "Influenza",
+    "covid": "COVID-19",
+    "resfriado": "Common cold",
+    "asma": "Asthma",
+    "amigdalitis": "Tonsillitis"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "general": {
+    "titulo_app": "医疗咨询助手",
+    "selecciona_sintomas": "选择您所具有的症状",
+    "selecciona_un_sintoma": "选择一个症状",
+    "verificar": "检测",
+    "resultados": "结果"
+  },
+  "mensajes": {
+    "alerta_sintoma": "请至少选择一个症状",
+    "sin_sintomas_seleccionados": "您尚未选择任何症状",
+    "resultados_vacio": "结果将显示在这里",
+    "no_coincidencias": "未找到与所选症状匹配的疾病"
+  },
+  "acciones": {
+    "eliminar": "删除"
+  },
+  "sintomas": {
+    "dolor-cabeza": "头痛",
+    "fiebre": "发烧",
+    "tos": "咳嗽",
+    "dolor-garganta": "喉咙痛",
+    "congestion": "鼻塞",
+    "fatiga": "疲劳",
+    "dolor-muscular": "肌肉酸痛",
+    "dificultad-respirar": "呼吸困难",
+    "nauseas": "恶心",
+    "escalofrios": "发冷"
+  },
+  "enfermedades": {
+    "gripe": "流感",
+    "influenza": "甲型流感",
+    "covid": "新冠肺炎 (COVID-19)",
+    "resfriado": "普通感冒",
+    "asma": "哮喘",
+    "amigdalitis": "扁桃体炎"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "general": {
+    "titulo_app": "Ärztliche Beratung",
+    "selecciona_sintomas": "Wähle aus, welche Symptome du hast",
+    "selecciona_un_sintoma": "Wähle ein Symptom",
+    "verificar": "Überprüfen",
+    "resultados": "Ergebnisse"
+  },
+  "mensajes": {
+    "alerta_sintoma": "Bitte wähle mindestens ein Symptom aus",
+    "sin_sintomas_seleccionados": "Du hast keine Symptome ausgewählt",
+    "resultados_vacio": "Deine Ergebnisse werden hier angezeigt",
+    "no_coincidencias": "Keine Übereinstimmungen mit den ausgewählten Symptomen gefunden"
+  },
+  "acciones": {
+    "eliminar": "Löschen"
+  },
+
+  "sintomas": {
+    "dolor-cabeza": "Kopfschmerzen",
+    "fiebre": "Fieber",
+    "tos": "Husten",
+    "dolor-garganta": "Halsschmerzen",
+    "congestion": "Verstopfte Nase",
+    "fatiga": "Müdigkeit",
+    "dolor-muscular": "Muskelschmerzen",
+    "dificultad-respirar": "Atembeschwerden",
+    "nauseas": "Übelkeit",
+    "escalofrios": "Schüttelfrost"
+  },
+
+  "enfermedades": {
+    "gripe": "Grippe",
+    "influenza": "Influenza",
+    "covid": "COVID-19",
+    "resfriado": "Erkältung",
+    "asma": "Asthma",
+    "amigdalitis": "Tonsillitis"
+  }
+}

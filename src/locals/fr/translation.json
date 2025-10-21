@@ -1,0 +1,40 @@
+{
+  "general": {
+    "titulo_app": "Cabinet Médical",
+    "selecciona_sintomas": "Choisissez vos symptômes",
+    "selecciona_un_sintoma": "Sélectionnez un symptôme",
+    "verificar": "Vérifier",
+    "resultados": "Résultats"
+  },
+  "mensajes": {
+    "alerta_sintoma": "Veuillez sélectionner au moins un symptôme",
+    "sin_sintomas_seleccionados": "Vous n’avez sélectionné aucun symptôme",
+    "resultados_vacio": "Vos résultats s’afficheront ici",
+    "no_coincidencias": "Aucune correspondance trouvée avec les symptômes sélectionnés"
+  },
+  "acciones": {
+    "eliminar": "Supprimer"
+  },
+
+  "sintomas": {
+    "dolor-cabeza": "Mal de tête",
+    "fiebre": "Fièvre",
+    "tos": "Toux",
+    "dolor-garganta": "Mal de gorge",
+    "congestion": "Congestion nasale",
+    "fatiga": "Fatigue",
+    "dolor-muscular": "Douleurs musculaires",
+    "dificultad-respirar": "Difficulté à respirer",
+    "nauseas": "Nausées",
+    "escalofrios": "Frissons"
+  },
+
+  "enfermedades": {
+    "gripe": "Grippe",
+    "influenza": "Influenza",
+    "covid": "COVID-19",
+    "resfriado": "Rhume commun",
+    "asma": "Asthme",
+    "amigdalitis": "Amygdalite"
+  }
+}

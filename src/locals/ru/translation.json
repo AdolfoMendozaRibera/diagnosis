@@ -1,0 +1,40 @@
+{
+  "general": {
+    "titulo_app": "Медицинская консультация",
+    "selecciona_sintomas": "Выберите, какие у вас есть симптомы",
+    "selecciona_un_sintoma": "Выберите симптом",
+    "verificar": "Проверить",
+    "resultados": "Результаты"
+  },
+  "mensajes": {
+    "alerta_sintoma": "Пожалуйста, выберите хотя бы один симптом",
+    "sin_sintomas_seleccionados": "Вы не выбрали симптомы",
+    "resultados_vacio": "Ваши результаты будут показаны здесь",
+    "no_coincidencias": "Совпадений с выбранными симптомами не найдено"
+  },
+  "acciones": {
+    "eliminar": "Удалить"
+  },
+
+  "sintomas": {
+    "dolor-cabeza": "Головная боль",
+    "fiebre": "Жар",
+    "tos": "Кашель",
+    "dolor-garganta": "Боль в горле",
+    "congestion": "Заложенность носа",
+    "fatiga": "Усталость",
+    "dolor-muscular": "Мышечная боль",
+    "dificultad-respirar": "Затруднённое дыхание",
+    "nauseas": "Тошнота",
+    "escalofrios": "Озноб"
+  },
+
+  "enfermedades": {
+    "gripe": "Грипп",
+    "influenza": "Инфлюэнца",
+    "covid": "COVID-19",
+    "resfriado": "Простуда",
+    "asma": "Астма",
+    "amigdalitis": "Тонзиллит"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "general": {
+    "titulo_app": "Consultorio Médico",
+    "selecciona_sintomas": "Elige qué síntomas tienes",
+    "selecciona_un_sintoma": "Selecciona un síntoma",
+    "verificar": "Verificar",
+    "resultados": "Resultados"
+  },
+  "mensajes": {
+    "alerta_sintoma": "Por favor, selecciona al menos un síntoma",
+    "sin_sintomas_seleccionados": "No has seleccionado síntomas",
+    "resultados_vacio": "Tus resultados se mostrarán aquí",
+    "no_coincidencias": "No se encontraron coincidencias con los síntomas seleccionados"
+  },
+  "acciones": {
+    "eliminar": "Eliminar"
+  },
+
+  "sintomas": {
+    "dolor-cabeza": "Dolor de cabeza",
+    "fiebre": "Fiebre",
+    "tos": "Tos",
+    "dolor-garganta": "Dolor de garganta",
+    "congestion": "Congestión nasal",
+    "fatiga": "Fatiga",
+    "dolor-muscular": "Dolor muscular",
+    "dificultad-respirar": "Dificultad para respirar",
+    "nauseas": "Náuseas",
+    "escalofrios": "Escalofríos"
+  },
+
+  "enfermedades": {
+    "gripe": "Gripe",
+    "influenza": "Influenza",
+    "covid": "COVID-19",
+    "resfriado": "Resfriado común",
+    "asma": "Asma",
+    "amigdalitis": "Amigdalitis"
+  }
+}
